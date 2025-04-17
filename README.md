@@ -1,3 +1,3 @@
 Includes:
-	•	presentation.pdf
-	•	code snippets (/examples)
+presentation.pptx
+code snippets (/examples)
